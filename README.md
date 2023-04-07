@@ -1,4 +1,5 @@
-# launching-autotests-for-different-interface-languages
+Я не использую Chrom, поэтому моя программа запускается через Edge!!!
+
 Порядок работы:
 1.Создайте GitHub-репозиторий, в котором будут лежать файлы conftest.py и test_items.py.
 
